@@ -1,6 +1,6 @@
 #!/bin/bash
 #Silahkan di recode :)
-#Jangan Lupa Subscribe MaulanaRyM
+#Jangan Lupa Subscribe AD GAMING
 
 #Variables
 b="\033[1m"
@@ -18,12 +18,12 @@ blue="\033[1;34m"
 cyan="\033[1;36m"
 red="\033[1;31m"
 
-figlet ASW | lolcat
+figlet 5 Tools | nano
 
 echo "_____________________________________________________________"
-echo "Tools    : Kumpulan ASW Tools $white                         " |lolcat
-echo "Creadby  : Mr.yM $white                                      " |lolcat
-echo "Contact  : 0852xxxxxxxx   $white                             " |lolcat
+echo "Tools    : Kumpulan 5 Tools $white                         " |lolcat
+echo "Creadby  : ggzxma $white                                      " |lolcat
+echo "Contact  : 085601468230   $white                            " |lolcat
 echo "_____________________________________________________________"
 
 ###################################################
@@ -57,7 +57,7 @@ echo $r "5.  Tools-X${endc}";
 echo "============================" | lolcat
 echo $r "6. Exit${endc}";
 echo ""
-echo "╭─Mr.yM" |lolcat
+echo "╭─ggzxma" |lolcat
 read -p "╰─#" pil;
 
 # Nmap
